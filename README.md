@@ -1,2 +1,2 @@
 # Frontend-Projects
-basic frontend project samples
+basic frontend project 
